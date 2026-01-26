@@ -3,10 +3,14 @@ title: "Note #2 Markdown (and jekyll) cheatsheet"
 date: 2026-01-26 11:58:30 +09:00
 categories: [note]
 tags: [cheatsheet]
+description: Markdown cheatsheet
 pin: False
 math: False
 mermaid: False
 ---
+
+# Tba
+https://chirpy.cotes.page/posts/text-and-typography
 
 ## Headings
 # H1
