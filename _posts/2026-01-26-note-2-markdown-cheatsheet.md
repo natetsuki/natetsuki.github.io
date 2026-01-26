@@ -36,7 +36,7 @@ mermaid: False
 
 ## Links and Images
 [Link text](https://example.com)
-![Alt text](image.jpg)
+![Alt text](/assets/images/pc_cat.jpg)
 
 ## Code Blocks
 ```language
