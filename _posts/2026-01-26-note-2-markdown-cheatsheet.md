@@ -17,10 +17,10 @@ mermaid: False
 ###### H6
 
 ## Text Formatting
-**Bold** or __bold__
-*Italic* or _italic_
-***Bold Italic***
-~~Strikethrough~~
+**Bold** or __bold__\
+*Italic* or _italic_\
+***Bold Italic***\
+~~Strikethrough~~\
 `Inline code`
 
 ## Lists
@@ -39,8 +39,8 @@ mermaid: False
 ![Alt text](/assets/images/pc_cat.jpg)
 
 ## Code Blocks
-```language
-code here
+```python
+print("Bruh")
 ```
 
 ## Blockquotes
@@ -48,10 +48,10 @@ code here
 > > Nested quote
 
 ## Tables
-| Header 1 | Header 2 |
-|----------|----------|
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
+| Header 1 | Header 2 | Header 3 |
+|:---|:---:|---:|
+| Cell 1 | Cell 2 | Cell 3 |
+| Cell 4 | Cell 5 | Cell 6 |
 
 ## Horizontal Rule
 ---
